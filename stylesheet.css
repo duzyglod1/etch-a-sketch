@@ -1,0 +1,41 @@
+body {
+  background: white;
+}
+
+p, h1, h4 {
+  font-family: Verdana, serif;
+}
+
+#wrapper {
+  width: 800px;
+  height: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+table {
+  border: none;
+  width: 800px;
+  height: 800px;
+}
+
+.tile1 {
+  margin: 0 auto;
+  color: black;
+  background: blue;
+  text-align: center;
+  }
+
+.tile2 {
+  margin: 0 auto;
+  color: black;
+  background: red;
+  text-align: center;
+  }
+
+#tableWrapper {
+  background-color: ;
+  height: 800px;
+  width: 800px;
+  margin-top: 10px;
+}
